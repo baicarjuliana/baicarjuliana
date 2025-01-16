@@ -9,7 +9,7 @@
  ---  
  
 <div align="center">
-  <a href="https://github.com/julianabaicar">
+  <a href="https://github.com/baicarjuliana">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baicarjuliana&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=baicarjuliana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
@@ -20,5 +20,6 @@
 
 <div>
 <a href = "mailto:baicarjuliana@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/juliana-baicar-silva?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVWSxpudgS%2Fecv1kJb8CbAw%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/juliana-baicar-silva?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVWSxpudgS%2Fecv1kJb8CbAw%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "https://github.com/julianabaicar"><img loading="lazy" target="_blank"><img src="./icons/Github-Dark.svg" width="48"></a>
 </div>
