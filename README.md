@@ -1,5 +1,5 @@
-### Olá, me chamo Juliana Baiçar !
-###### Bem vindo ao meu perfil GitHub 👋
+### Olá, me chamo Juliana Baiçar e sou Analista e Desenvolvedora de Sistemas!
+###### Bem vindo ao meu perfil no GitHub 👋
 ---
 #### Ferramentas e Tecnologias
 <div align="center">
@@ -26,14 +26,7 @@
 
 ---  
 
-<div style="text-align: center;">
-  <!-- Estatísticas do GitHub -->
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=baicarjuliana&show_icons=true&theme=radical&count_private=true"/>
-</div>
-
-
----
-## Contatos:
+## Contatos pessoais:
 
 <div>
   <a href="mailto:baicarjuliana@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
